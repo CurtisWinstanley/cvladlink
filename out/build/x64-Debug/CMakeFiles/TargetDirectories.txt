@@ -1,0 +1,6 @@
+C:/Users/curti/repositories/Link/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/curti/repositories/Link/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/curti/repositories/Link/out/build/x64-Debug/src/CMakeFiles/cvlad_link_testSend.dir
+C:/Users/curti/repositories/Link/out/build/x64-Debug/src/CMakeFiles/cvlad_link_testRecv.dir
+C:/Users/curti/repositories/Link/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/curti/repositories/Link/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
